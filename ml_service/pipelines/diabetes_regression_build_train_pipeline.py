@@ -10,7 +10,7 @@ from sklearn.datasets import load_diabetes
 import pandas as pd
 import os
 
-
+# this is the main function
 def main():
     e = Env()
     # Get Azure machine learning workspace
